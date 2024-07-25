@@ -1,5 +1,5 @@
 
-# TCPmyUDP
+# TCPmyUDP (Development Branch)
 (preᵖʳᵉ alpha release) An insanely fast (and simple) udp2raw alternative implemented in Rust (btw).
 
 Make your UDP traffic look like generic TCP traffic, bypass UDP blocks and Firewalls in seconds.
